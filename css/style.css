@@ -11,3 +11,9 @@ body {
   height: auto;
   width: 500px;
 }
+
+.adjust-h1-color,
+.adjust-h2-color {
+  color: blue;
+  background-color: hsla(295, 38%, 61%, 0.577);
+}
