@@ -1,3 +1,8 @@
 * {
   font-family: "Georgia", "Times New Roman", serif;
 }
+
+.images {
+  height: auto;
+  width: 500px;
+}
