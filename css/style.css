@@ -17,3 +17,9 @@ body {
   color: blue;
   background-color: hsla(295, 38%, 61%, 0.577);
 }
+
+.bulgogi.description,
+.hotpot.description,
+.adobo.description {
+  color: rgb(0, 23, 92);
+}
