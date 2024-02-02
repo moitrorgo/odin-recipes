@@ -27,3 +27,12 @@ body {
 .ancestor .contents {
   background-color: bisque;
 }
+
+.adjust-h1-color {
+  width: 600px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  border: 0.5rem outset rgba(203, 230, 246, 0.978);
+  border-radius: 30px;
+}
