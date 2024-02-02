@@ -29,10 +29,34 @@ body {
 }
 
 .adjust-h1-color {
-  width: 600px;
+  width: 400px;
   margin: auto;
   padding: 10px;
   text-align: center;
-  border: 0.5rem outset rgba(203, 230, 246, 0.978);
+  border: 0.5rem outset rgba(149, 20, 181, 0.783);
   border-radius: 30px;
+}
+
+/* * {
+  outline: 2px solid red
+} */
+
+.bulgogi-recipe,
+.hotpot-recipe,
+.adobo-recipe {
+  width: 150px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  border: 0.5rem outset rgba(149, 9, 48, 0.978);
+  border-radius: 30px;
+}
+
+.bulgogi-recipe {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.hotpot-recipe {
+  margin-bottom: 15px;
 }
