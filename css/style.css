@@ -28,7 +28,7 @@ body {
   background-color: bisque;
 }
 
-.adjust-h1-color {
+.adjust-h1-color.style-title {
   width: 400px;
   margin: auto;
   padding: 10px;
@@ -36,10 +36,6 @@ body {
   border: 0.5rem outset rgba(149, 20, 181, 0.783);
   border-radius: 30px;
 }
-
-/* * {
-  outline: 2px solid red
-} */
 
 .bulgogi-recipe,
 .hotpot-recipe,
